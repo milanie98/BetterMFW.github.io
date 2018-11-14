@@ -1,19 +1,8 @@
-<script> 
-<!--CODE FAIT PAR PYROFLO HTTP://WWW.ABCPYRO.FR.ST-->
-// temps qui s'écoule après que la page soit chargée noté x
-// temps qui s'écoule après que la fenêtre se soit ouverte après x secondes noté y
- var txt;
- function open_window
-{
-  alert(Voulez-vous voir le site ?)
-}
-if (Confirm)
-  
 
  var window_handle;  // variable globale du script, à ne surtout pas modifier !!!
  function open_window() // on défini la fonction qui va ouvrir la fenêtre
  {
-window_handle = window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ"); // ici c'est l'URL complète de la page à ouvrir attention de ne pas supprimer les guillemets
+window_handle = window.open("Voulez-vous accedez au site?"); // ici c'est l'URL complète de la page à ouvrir attention de ne pas supprimer les guillemets
  } // on ferme la fonction open_window()
  
  function close_window() // on défini la fonction qui va fermer la fenêtre qu'on a ouvert précédemment
