@@ -1,0 +1,1 @@
+setTimeout("window.open('BetterMotherFuckingWebsite.html','','width=500,height=100')",10000);
