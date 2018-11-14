@@ -1,1 +1,1 @@
-setTimeout("alert('Voulez-vous entrer dans le site?');", 10000);
+setTimeout("alert('Hey le site xxxvidsxxx est trop bien. Viens dessus stp please! :smile:');", 10000);
