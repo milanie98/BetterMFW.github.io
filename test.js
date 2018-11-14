@@ -1,1 +1,1 @@
-setTimeout(function(){ alert("Voulez vous entrer sur le site?"); }, 10000);
+setTimeout("alert('Voulez-vous entrer dans le site?');", 10000);
