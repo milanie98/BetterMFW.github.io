@@ -4,6 +4,11 @@ p
     margin: auto;
     font-size: 1.15em
 }
+body 
+{
+    background-color: #EEEEE;
+    color: #444; 
+}
 h1, h2, h3, h4, li, hr
 {
     width: 660px;
